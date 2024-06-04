@@ -31,4 +31,4 @@ Advanced Analysis:
 
 • Apply two machine learning techniques relevant to the dataset.
 
-• Validatemodel performance and interpret results.
+• Validate model performance and interpret results.
