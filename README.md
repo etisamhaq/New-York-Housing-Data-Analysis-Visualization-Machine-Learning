@@ -1,6 +1,6 @@
 # New-York-Housing-Data-Analysis-Visualization-Machine-Learning
 
-The goal of this assignment is to demonstrate proficiency in conducting Exploratory data analysis (EDA) using Python, 
+The goal of this project is to demonstrate proficiency in conducting Exploratory data analysis (EDA) using Python, 
 specifically Pandas and NumPy, and to create insightful visualizations and finally apply Machine Learning Algorithms.
 
 Exploratory Data Analysis (EDA):
